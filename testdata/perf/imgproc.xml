@@ -8866,19 +8866,19 @@
     <kind>65536</kind>
     <type>4</type>
     <min>0.</min>
-    <max>39124894.</max>
+    <max>39124888.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39124894.</val></last>
+      <val>39124888.</val></last>
     <rng1>
-      <x>272</x>
-      <y>374</y>
-      <val>12932612.</val></rng1>
+      <x>320</x>
+      <y>165</y>
+      <val>6703482.</val></rng1>
     <rng2>
-      <x>575</x>
-      <y>153</y>
-      <val>11168767.</val></rng2></sum>
+      <x>317</x>
+      <y>188</y>
+      <val>7570139.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>6</type>
@@ -8936,19 +8936,19 @@
     <kind>65536</kind>
     <type>6</type>
     <min>0.</min>
-    <max>39124894.</max>
+    <max>39124888.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39124894.</val></last>
+      <val>39124888.</val></last>
     <rng1>
-      <x>242</x>
-      <y>453</y>
-      <val>13939898.</val></rng1>
+      <x>320</x>
+      <y>165</y>
+      <val>6703482.</val></rng1>
     <rng2>
-      <x>147</x>
-      <y>395</y>
-      <val>7363640.</val></rng2></sum>
+      <x>317</x>
+      <y>188</y>
+      <val>7570139.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>6</type>
@@ -8971,19 +8971,21 @@
     <kind>65536</kind>
     <type>28</type>
     <min>0.</min>
-    <max>39178331.</max>
+    <max>39178320.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39178331.</val></last>
+      <val>39178320.</val></last>
     <rng1>
-      <x>357</x>
-      <y>311</y>
-      <val>14141756.</val></rng1>
+      <x>37</x>
+      <y>239</y>
+      <cn>3</cn>
+      <val>1124303.</val></rng1>
     <rng2>
-      <x>213</x>
-      <y>188</y>
-      <val>5113623.</val></rng2></sum>
+      <x>574</x>
+      <y>208</y>
+      <cn>2</cn>
+      <val>15166233.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -9046,21 +9048,21 @@
     <kind>65536</kind>
     <type>30</type>
     <min>0.</min>
-    <max>39178331.</max>
+    <max>39178320.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39178331.</val></last>
+      <val>39178320.</val></last>
     <rng1>
-      <x>598</x>
-      <y>223</y>
-      <cn>1</cn>
-      <val>16974991.</val></rng1>
+      <x>37</x>
+      <y>239</y>
+      <cn>3</cn>
+      <val>1124303.</val></rng1>
     <rng2>
-      <x>403</x>
-      <y>340</y>
-      <cn>1</cn>
-      <val>17457121.</val></rng2></sum>
+      <x>574</x>
+      <y>208</y>
+      <cn>2</cn>
+      <val>15166233.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -9189,21 +9191,21 @@
     <kind>65536</kind>
     <type>28</type>
     <min>0.</min>
-    <max>117532033.</max>
+    <max>117532000.</max>
     <last>
       <x>1280</x>
       <y>720</y>
-      <val>117448534.</val></last>
+      <val>117448528.</val></last>
     <rng1>
-      <x>630</x>
-      <y>231</y>
+      <x>1084</x>
+      <y>464</y>
       <cn>1</cn>
-      <val>18552257.</val></rng1>
+      <val>64051656.</val></rng1>
     <rng2>
-      <x>658</x>
-      <y>93</y>
-      <cn>3</cn>
-      <val>7833460.</val></rng2></sum>
+      <x>801</x>
+      <y>458</y>
+      <cn>1</cn>
+      <val>46737712.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -9266,21 +9268,21 @@
     <kind>65536</kind>
     <type>30</type>
     <min>0.</min>
-    <max>117532033.</max>
+    <max>117532000.</max>
     <last>
       <x>1280</x>
       <y>720</y>
-      <val>117448534.</val></last>
+      <val>117448528.</val></last>
     <rng1>
-      <x>1193</x>
-      <y>664</y>
-      <cn>3</cn>
-      <val>100962802.</val></rng1>
+      <x>1084</x>
+      <y>464</y>
+      <cn>1</cn>
+      <val>64051656.</val></rng1>
     <rng2>
-      <x>683</x>
-      <y>637</y>
-      <cn>3</cn>
-      <val>55443148.</val></rng2></sum>
+      <x>801</x>
+      <y>458</y>
+      <cn>1</cn>
+      <val>46737712.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -9305,19 +9307,19 @@
     <kind>65536</kind>
     <type>4</type>
     <min>0.</min>
-    <max>264150490.</max>
+    <max>264150448.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264150490.</val></last>
+      <val>264150448.</val></last>
     <rng1>
-      <x>702</x>
-      <y>226</y>
-      <val>20173734.</val></rng1>
+      <x>1097</x>
+      <y>356</y>
+      <val>49739192.</val></rng1>
     <rng2>
-      <x>1677</x>
-      <y>369</y>
-      <val>78849231.</val></rng2></sum>
+      <x>1748</x>
+      <y>589</y>
+      <val>131209648.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>6</type>
@@ -9375,19 +9377,19 @@
     <kind>65536</kind>
     <type>6</type>
     <min>0.</min>
-    <max>264150490.</max>
+    <max>264150448.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264150490.</val></last>
+      <val>264150448.</val></last>
     <rng1>
-      <x>624</x>
-      <y>806</y>
-      <val>64093120.</val></rng1>
+      <x>1097</x>
+      <y>356</y>
+      <val>49739192.</val></rng1>
     <rng2>
-      <x>542</x>
-      <y>808</y>
-      <val>55816871.</val></rng2></sum>
+      <x>1748</x>
+      <y>589</y>
+      <val>131209648.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>6</type>
@@ -9410,21 +9412,20 @@
     <kind>65536</kind>
     <type>28</type>
     <min>0.</min>
-    <max>264383470.</max>
+    <max>264383568.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264383470.</val></last>
+      <val>264383568.</val></last>
     <rng1>
-      <x>355</x>
-      <y>140</y>
-      <cn>1</cn>
-      <val>6334517.</val></rng1>
+      <x>1530</x>
+      <y>797</y>
+      <val>155487456.</val></rng1>
     <rng2>
-      <x>1242</x>
-      <y>850</y>
+      <x>304</x>
+      <y>127</y>
       <cn>2</cn>
-      <val>134608309.</val></rng2></sum>
+      <val>4896909.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -9487,21 +9488,20 @@
     <kind>65536</kind>
     <type>30</type>
     <min>0.</min>
-    <max>264383470.</max>
+    <max>264383568.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264383470.</val></last>
+      <val>264383568.</val></last>
     <rng1>
-      <x>612</x>
-      <y>484</y>
-      <cn>3</cn>
-      <val>37725766.</val></rng1>
+      <x>1530</x>
+      <y>797</y>
+      <val>155487456.</val></rng1>
     <rng2>
-      <x>605</x>
-      <y>1012</y>
-      <cn>1</cn>
-      <val>78050832.</val></rng2></sum>
+      <x>304</x>
+      <y>127</y>
+      <cn>2</cn>
+      <val>4896909.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>30</type>
@@ -99235,19 +99235,20 @@
     <kind>65536</kind>
     <type>12</type>
     <min>0.</min>
-    <max>39177143.</max>
+    <max>39177136.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39177143.</val></last>
+      <val>39177136.</val></last>
     <rng1>
-      <x>329</x>
-      <y>2</y>
-      <val>84192.</val></rng1>
+      <x>502</x>
+      <y>339</y>
+      <val>21680874.</val></rng1>
     <rng2>
-      <x>265</x>
-      <y>411</y>
-      <val>13873772.</val></rng2></sum>
+      <x>245</x>
+      <y>54</y>
+      <cn>1</cn>
+      <val>1686334.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
@@ -99309,20 +99310,20 @@
     <kind>65536</kind>
     <type>14</type>
     <min>0.</min>
-    <max>39177143.</max>
+    <max>39177136.</max>
     <last>
       <x>640</x>
       <y>480</y>
-      <val>39177143.</val></last>
+      <val>39177136.</val></last>
     <rng1>
-      <x>593</x>
-      <y>144</y>
-      <cn>1</cn>
-      <val>10859905.</val></rng1>
+      <x>502</x>
+      <y>339</y>
+      <val>21680874.</val></rng1>
     <rng2>
-      <x>609</x>
-      <y>63</y>
-      <val>4868172.</val></rng2></sum>
+      <x>245</x>
+      <y>54</y>
+      <cn>1</cn>
+      <val>1686334.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
@@ -99457,20 +99458,20 @@
     <kind>65536</kind>
     <type>12</type>
     <min>0.</min>
-    <max>117411015.</max>
+    <max>117411008.</max>
     <last>
       <x>1280</x>
       <y>720</y>
-      <val>117411015.</val></last>
+      <val>117411008.</val></last>
     <rng1>
-      <x>647</x>
+      <x>230</x>
+      <y>631</y>
+      <val>18471118.</val></rng1>
+    <rng2>
+      <x>1148</x>
       <y>92</y>
       <cn>1</cn>
-      <val>7584169.</val></rng1>
-    <rng2>
-      <x>776</x>
-      <y>668</y>
-      <val>66000185.</val></rng2></sum>
+      <val>13436957.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
@@ -99532,21 +99533,20 @@
     <kind>65536</kind>
     <type>14</type>
     <min>0.</min>
-    <max>117411015.</max>
+    <max>117411008.</max>
     <last>
       <x>1280</x>
       <y>720</y>
-      <val>117411015.</val></last>
+      <val>117411008.</val></last>
     <rng1>
-      <x>760</x>
-      <y>300</y>
-      <cn>1</cn>
-      <val>29048875.</val></rng1>
+      <x>230</x>
+      <y>631</y>
+      <val>18471118.</val></rng1>
     <rng2>
-      <x>748</x>
-      <y>218</y>
+      <x>1148</x>
+      <y>92</y>
       <cn>1</cn>
-      <val>20804038.</val></rng2></sum>
+      <val>13436957.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
@@ -99685,20 +99685,20 @@
     <kind>65536</kind>
     <type>12</type>
     <min>0.</min>
-    <max>264230390.</max>
+    <max>264230432.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264196653.</val></last>
+      <val>264196704.</val></last>
     <rng1>
-      <x>924</x>
-      <y>458</y>
-      <cn>1</cn>
-      <val>53916896.</val></rng1>
+      <x>251</x>
+      <y>937</y>
+      <val>30004498.</val></rng1>
     <rng2>
-      <x>347</x>
-      <y>556</y>
-      <val>24557423.</val></rng2></sum>
+      <x>1497</x>
+      <y>942</y>
+      <cn>1</cn>
+      <val>179656112.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
@@ -99758,21 +99758,20 @@
     <kind>65536</kind>
     <type>14</type>
     <min>0.</min>
-    <max>264230390.</max>
+    <max>264230432.</max>
     <last>
       <x>1920</x>
       <y>1080</y>
-      <val>264196653.</val></last>
+      <val>264196704.</val></last>
     <rng1>
-      <x>646</x>
-      <y>803</y>
-      <cn>1</cn>
-      <val>66098103.</val></rng1>
+      <x>251</x>
+      <y>937</y>
+      <val>30004498.</val></rng1>
     <rng2>
-      <x>1035</x>
-      <y>777</y>
+      <x>1497</x>
+      <y>942</y>
       <cn>1</cn>
-      <val>102433493.</val></rng2></sum>
+      <val>179656112.</val></rng2></sum>
   <sqsum>
     <kind>65536</kind>
     <type>14</type>
